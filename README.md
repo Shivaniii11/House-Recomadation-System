@@ -1,2 +1,2 @@
 # House-Recomadation-System
-Built a House Recommendation System using Python and Machine Learning. Applied cosine similarity to recommend properties based on user preferences. Focused on data preprocessing, feature engineering, and developing an efficient recommendation logic entirely in Python.
+Built a House Recommendation System using Python and Machine Learning. Generated synthetic real-estate data using Faker and applied cosine similarity to suggest properties based on user preferences. Focused on data preprocessing, feature engineering, and building an efficient recommendation logic in Python.
